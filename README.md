@@ -36,6 +36,9 @@ _I'm Interested in **DirectX12**, **Vulkan**, **Metal**, **Unreal Engine4**, **U
 ![dotnet](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white)
 
 
+
+
+
 ## Career
 
 | **Type**       | **Date**            | **Contents**                | **Orginization**                 |
@@ -44,9 +47,12 @@ _I'm Interested in **DirectX12**, **Vulkan**, **Metal**, **Unreal Engine4**, **U
 | **Employment** | 2021.2 ~        | Game Client Programming | **Com2us**                       |
 
 
+
+
+
 ## ETC
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=qlccksdlf)](https://solved.ac/kinetic27)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=qlccksdlf)](https://solved.ac/qlccksdlf)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimduuukbae)](https://github.com/anuraghazra/github-readme-stats)
 
