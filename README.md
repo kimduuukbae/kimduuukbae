@@ -1,6 +1,8 @@
+<div align=center>
+
 ## Introduce
 
-<div align=center>
+
   
 _Hello, I'm a junior game developer._
 
