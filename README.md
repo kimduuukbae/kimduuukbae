@@ -60,6 +60,8 @@ _I'm Interested in **DirectX12**, **Vulkan**, **Metal**, **Unreal Engine4**, **U
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimduuukbae)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<a href="https://opgc.me/#/users/kimduuukbae" target="_blank"><img src="https://api.opgc.me/githubs/users/kimduuukbae/tag/?theme=basic" /></a>
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhttps%2F%2Fgithub.com%2Fkimduuukbae&count_bg=%233DA7C8&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
