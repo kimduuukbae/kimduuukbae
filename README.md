@@ -18,10 +18,10 @@ _I'm Interested in **DirectX12**, **Vulkan**, **Metal**, **Unreal Engine4**, **U
 
 ## I-Learned
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kimduuukbae&repo=cpp20&show_icons=true&bg_color=FFFFFF)](https://github.com/kimduuukbae/cpp20)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kimduuukbae&repo=Today-I-Learned&show_icons=true&bg_color=FFFFFF)](https://github.com/kimduuukbae/Today-I-Learned)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kimduuukbae&repo=OBEngine-For-WindowAPI&show_icons=true&bg_color=FFFFFF)](https://github.com/kimduuukbae/OBEngine-for-WindowApi)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kimduuukbae&repo=Magic-Cat-Academy&show_icons=true&bg_color=FFFFFF)](https://github.com/kimduuukbae/Magic-Cat-Academy)
+[![ReadMe Card](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=kimduuukbae&repo=cpp20&show_icons=true&bg_color=FFFFFF)](https://github.com/kimduuukbae/cpp20)
+[![ReadMe Card](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=kimduuukbae&repo=Today-I-Learned&show_icons=true&bg_color=FFFFFF)](https://github.com/kimduuukbae/Today-I-Learned)
+[![ReadMe Card](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=kimduuukbae&repo=OBEngine-For-WindowAPI&show_icons=true&bg_color=FFFFFF)](https://github.com/kimduuukbae/OBEngine-for-WindowApi)
+[![ReadMe Card](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=kimduuukbae&repo=Magic-Cat-Academy&show_icons=true&bg_color=FFFFFF)](https://github.com/kimduuukbae/Magic-Cat-Academy)
 
 ## Tech Stack
 
