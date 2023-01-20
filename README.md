@@ -15,14 +15,6 @@ _I'm Interested in **DirectX12**, **Vulkan**, **Metal**, **Unreal Engine4**, **U
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCHmqNZn-TfokjYhjWNtM78A)](https://www.youtube.com/channel/UCHmqNZn-TfokjYhjWNtM78A)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qlccksdlf@gmail.com)](mailto:qlccksdlf@gmail.com)
 
-
-## I-Learned
-
-[![ReadMe Card](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=kimduuukbae&repo=cpp20&show_icons=true&bg_color=FFFFFF)](https://github.com/kimduuukbae/cpp20)
-[![ReadMe Card](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=kimduuukbae&repo=Today-I-Learned&show_icons=true&bg_color=FFFFFF)](https://github.com/kimduuukbae/Today-I-Learned)
-[![ReadMe Card](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=kimduuukbae&repo=OBEngine-For-WindowAPI&show_icons=true&bg_color=FFFFFF)](https://github.com/kimduuukbae/OBEngine-for-WindowApi)
-[![ReadMe Card](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=kimduuukbae&repo=Magic-Cat-Academy&show_icons=true&bg_color=FFFFFF)](https://github.com/kimduuukbae/Magic-Cat-Academy)
-
 ## Tech Stack
 
 ![cpp](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
@@ -56,8 +48,6 @@ _I'm Interested in **DirectX12**, **Vulkan**, **Metal**, **Unreal Engine4**, **U
 ## ETC
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=qlccksdlf)](https://solved.ac/qlccksdlf)
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimduuukbae)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <a href="https://opgc.me/#/users/kimduuukbae" target="_blank"><img src="https://api.opgc.me/githubs/users/kimduuukbae/tag/?theme=basic" /></a>
