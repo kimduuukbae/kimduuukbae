@@ -40,7 +40,7 @@ _I'm Interested in **DirectX12**, **Vulkan**, **Metal**, **Unreal Engine4**, **U
 | **Education**  | 2011.3 ~ 2014.2 | Game Engineering&Leader | **Korea Game Science High School** |
 | **Education**  | 2014.3 ~ 2021.2 | Game Engineering        | **Korea Polytechnic University** |
 | **Employment** | 2021.2 ~ 2023.10| Game Client Programming | **Com2us**                       |
-| **Employment** | 2024.4 ~ | Game Client Programming | **Krafton**                       |
+| **Employment** | 2024.4 ~ | Game Client Programming | **Krafton (Inzoi Studio)**                       |
 
 
 
